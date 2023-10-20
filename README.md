@@ -4,4 +4,24 @@ Vocês fazem parte de um time de desenvolvimento, e estão trabalhando em um pro
 
 Sua tarefa é realizar os ajustes e melhorias necessário baseado no Layout disponibilizado, aproveite para realizar refatorações necessário e realizar qualquer correção que precisa ser feita.
 
+##
 
+Este projeto foi feito em grupo para a aula de Front End Estático do Bootcamp Vem ser Tech - Front End Ada|Ifood
+
+##
+
+## Como Recebemos o projeto 
+
+<img src="./assets/Landing_page_erro.png" alt="Landing page com erros" title="Landin page com erros" width="400px">
+
+## Protótipo de Alta fidelidade
+
+<img src="./assets/Landing_Page.png" alt="Protótipo de alta fidelidade da landin page" title="Protótipo de Alta fidelidade" width="400px">
+
+## Como entregamos o projeto
+
+<img src="./assets/Landing_page_entregue.png" alt="Landing page entregue conforme protótipo de alta fidelidade" title="Landing page entregue" width="400px">
+
+##
+
+Neste projeto utilizamos apenas HTML e CSS.
