@@ -6,7 +6,16 @@ Sua tarefa é realizar os ajustes e melhorias necessário baseado no Layout disp
 
 ##
 
-Este projeto foi feito em grupo (Grupo 3) para a aula de Front End Estático do Bootcamp Vem ser Tech - Front End Ada|Ifood
+Este projeto foi feito em grupo (Grupo 3) para a aula de Front End Estático do Bootcamp Vem ser Tech - Front End Ada | Ifood
+
+Grupo 3 - Turma 1095
+- [Antonio Candido](https://github.com/antoniolmcandido)
+- [Camila Gonçalves](https://github.com/CamilaVerso)
+- [Francisco Sávio](https://github.com/franciscodesenvolve)
+- [João Lucas](https://github.com/joaolucasMota)
+- [José Weverton](https://github.com/joseweverton)
+- [Lucas Justino](https://github.com/Lucas-Justino)
+- Marcelo Santana
 
 ##
 
